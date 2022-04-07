@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "react-minip-seulgi",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
