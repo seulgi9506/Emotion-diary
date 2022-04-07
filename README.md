@@ -1,16 +1,12 @@
 ## 감정 일기장(Emotion Diary)
 
-##### inflearn의 '한입 크기로 잘라 먹는 리액트 - 이정환' 강의를 들으며 만들었다.<br>
+#### inflearn의 '한입 크기로 잘라 먹는 리액트 - 이정환' 강의를 들으며 만들었다.<br>
 
-<a><mark style="background-color: #d4d4f8">https://react-minip-seulgi.web.app/</mark></a>
+<mark style="background-color: #d4d4f8">https://react-minip-seulgi.web.app/</mark>
 
 ### Skills
 
-<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 ### Results
 
