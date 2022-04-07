@@ -16,15 +16,16 @@
 
 ## Results
 <br>
-<mark style="background-color: #d4d4f8">https://react-minip-seulgi.web.app/</mark>
+<mark style="background-color: #d4d4f8"> https://react-minip-seulgi.web.app/ </mark>
 <br>
 
-![image](https://user-images.githubusercontent.com/102353910/162172093-85a10bfa-8039-4c73-9312-2f44ef7378d8.png)
-
-<br>
-
-![image](https://user-images.githubusercontent.com/102353910/162172459-a582ee83-4432-46eb-8fc2-62eedfb3875e.png)
+<img src="https://user-images.githubusercontent.com/102353910/162172093-85a10bfa-8039-4c73-9312-2f44ef7378d8.png  width="150" height="180"/>
 
 <br>
 
-![image](https://user-images.githubusercontent.com/102353910/162172561-97baeecf-9075-4f25-9faf-d478aac939e4.png)
+<img src="https://user-images.githubusercontent.com/102353910/162172459-a582ee83-4432-46eb-8fc2-62eedfb3875e.png  width="150" height="180"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/102353910/162172561-97baeecf-9075-4f25-9faf-d478aac939e4.png  width="150" height="180"/>
+
